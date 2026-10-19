@@ -1,16 +1,11 @@
-# 𝙑𝙃~𝘽𝙤𝙢𝙗𝙨𝙦𝙪𝙖𝙙-𝙎𝙚𝙧𝙫𝙚𝙧-𝙁𝙞𝙡𝙚𝙨-1.7(𝘽𝘾𝙎-𝙈𝙤𝙙𝙞𝙛𝙞𝙚𝙙)
+# 𝘽𝙤𝙢𝙗𝙨𝙦𝙪𝙖𝙙-𝙎𝙚𝙧𝙫𝙚𝙧-𝙁𝙞𝙡𝙚𝙨-1.7(𝘽𝘾𝙎-𝙈𝙤𝙙𝙞𝙛𝙞𝙚𝙙)
 
-Special Thanks to sara and [PCModder]([https://github.com/mikahael)..!
-
-All rights reserved [vortex1555]([https://discord.com/invite/MUj97D2QMZ]) as the license states.
+All rights reserved [vortex1555][(https://discord.gg/xmVtDKYTf]) as the license states.
 
 Basic knowledge of Linux
-A VPS (e.g. Amazon Web Services, Microsoft Azure)
 Any Linux distribution.
 It is recommended to use Ubuntu.
 Python 3.10.12
-
-1 GB free Memory (Recommended 2 GB)
 
 Requirements
 
@@ -27,9 +22,9 @@ Requirements
 
 Download files on terminal -
 ```
-git clone https://github.com/hypervortex/VH-Bombsquad-Modded-Server-Files &&
-cd VH-Bombsquad-Modded-Server-Files &&
-sudo chown -R ubuntu:ubuntu /home/ubuntu/VH-Bombsquad-Modded-Server-Files
+git clone SHIVRAJ-BHATT/Lucious-Bombsquad-Server-Files &&
+cd Lucious-Bombsquad-Server-Files &&
+sudo chown -R ubuntu:ubuntu /home/ubuntu/Lucious-Bombsquad-Server-Files
 ```
 
 ## 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣 𝙋𝙧𝙤𝙘𝙚𝙨𝙨 - 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙘 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙖𝙩𝙞𝙤𝙣:
@@ -75,9 +70,9 @@ Now you can edit rest files
 # 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨
 - [X] Includes latest BCS-Server features and special features by me - vortex1555
 
-- [X] Join our Discord Server ---> [VORTEX](https://discord.com/invite/MUj97D2QMZ)
+- [X] Join our Discord Server ---> [(https://discord.gg/xmVtDKYTf)]
 
-### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝙑H 𝘾𝙈𝘿𝙎 𝙗𝙮 𝙈𝙚:
+### 𝘾𝙈𝘿𝙎 𝙗𝙮 Vortex:
 
 Special Commands
 ``
@@ -100,8 +95,6 @@ Well, you can turn off questions and use the daily claim feature, so people can'
 
 # 𝘿𝙞𝙨𝙘𝙤𝙧𝙙 𝘽𝙤𝙩:
 
-## 𝘾𝙤𝙤𝙡 𝙈𝙤𝙙𝙞𝙛𝙞𝙚𝙙 𝙎𝙩𝙖𝙩𝙨 𝙐𝙄
-### ![image](https://github.com/hypervortex/Bombsuqad-Modded-Server-Files/assets/75498823/250b1511-627d-44ab-b397-98077c27246b)
 
 * You can easily add admin, VIP, owner, custom tags, effects, staff, and mods directly from your Discord server.
 * Efficient Server Management using Discord commands. You can do everything from Discord, like adding effects, muting, tags, roles, restarting server, getting player info such as rank, * * * score, device id, IP, and many more data. To get more details, set up the bot and try v!help.
@@ -117,11 +110,10 @@ Well, you can turn off questions and use the daily claim feature, so people can'
 
 # 𝙏𝙊 𝙒𝙃𝙊𝙈𝙎𝙊𝙀𝙑𝙀𝙍 𝙄𝙏 𝙈𝘼𝙔 𝘾𝙊𝙉𝘾𝙀𝙍𝙉:
 
-𝘼𝙡𝙡 𝙧𝙞𝙜𝙝𝙩𝙨 𝙩𝙤 Honor & 𝙑𝙤𝙧𝙩𝙚𝙭 𝙖𝙨 𝙩𝙝𝙚 𝙇𝙞𝙘𝙚𝙣𝙨𝙚 𝙨𝙩𝙖𝙩𝙚𝙨 𝙖𝙗𝙤𝙫𝙚
+𝘼𝙡𝙡 𝙧𝙞𝙜𝙝𝙩𝙨 𝙩𝙤 SHIVRAJ-BHATT 𝙖𝙨 𝙩𝙝𝙚 𝙇𝙞𝙘𝙚𝙣𝙨𝙚 𝙨𝙩𝙖𝙩𝙚𝙨 𝙖𝙗𝙤𝙫𝙚
 
-𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙮 Honor & 𝙑𝙊𝙍𝙏𝙀𝙓1555
+Files 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙮 Honor & 𝙑𝙊𝙍𝙏𝙀𝙓1555
 
-𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝙩𝙝𝙖𝙣𝙠𝙨 𝙩𝙤 𝙋𝘾𝙈𝙊𝘿𝘿𝙀𝙍 𝙖𝙣𝙙 𝙎𝘼𝙍𝘼
 
 ```
 MIT License
